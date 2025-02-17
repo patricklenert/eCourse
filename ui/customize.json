@@ -1,10 +1,10 @@
 {
   "name": "McGibney Academy",
-  "logo": "/logo.svg",
+  "logo": "/mcgibney-logo-modified.png",
   "logo_size": 110,
 
   "colors": {
-    "main": "#FFD700",
-    "dark": "#B8860B"
+    "main": "#158a8a",
+    "dark": "#040D12"
   }
 }
