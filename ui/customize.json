@@ -1,10 +1,10 @@
 {
-  "name": "eCourse",
+  "name": "McGibney Academy",
   "logo": "/logo.svg",
   "logo_size": 110,
 
   "colors": {
-    "main": "#158a8a",
-    "dark": "#040D12"
+    "main": "#FFD700",
+    "dark": "#B8860B"
   }
 }
